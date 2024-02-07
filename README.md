@@ -1,8 +1,8 @@
 <h1>Hi, I'm Kevon! Cybersecurity Professional
 <h2>👨‍💻 Cybsersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Structures and Algorithms Practice
+  - [Practicing Python]
 
 <h2>Certifications</h2>
 <h2>📺 Popular YouTube Videos</h2>
