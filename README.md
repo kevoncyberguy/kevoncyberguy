@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevon! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kevon! Cybersecurity Professional
 <h2>👨‍💻 Cybsersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
